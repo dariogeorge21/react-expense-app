@@ -264,4 +264,3 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 **Built with ❤️ using React and modern web technologies**
 # react-expense-app
-# react-expense-app
